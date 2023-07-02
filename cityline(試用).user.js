@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         cityline
-// @version      試用(Jul 4)
+// @version      試用(04Jul)
 // @author       TechTickBot
 // @namespace    https://t.me/techtickbot_channel
 // @match        https://*.cityline.com/*
